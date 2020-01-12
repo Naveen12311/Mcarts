@@ -1,0 +1,317 @@
+
+.nav{
+    background: black;
+    height: 70px;
+    opacity: 0.7;
+    font-family: 'Montserrat Subrayada';
+}
+
+#logo{
+    height: 70px;
+    padding-left: 10px;
+}
+#name{
+    display: inline-block;
+    color: blanchedalmond;
+}
+#brand{
+    display: inline-block;
+}
+a{
+    display: inline-block;
+    padding-left: 30px;
+
+}
+.phonecard{
+    padding: 20px;
+    display: inline-block !important;
+    margin: 20px;
+    margin-top: 100px;
+}
+ul{
+    top: 25px;
+    right: 7%;
+    position: absolute;
+    color: white;
+}
+.feature{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+
+    color: black;
+}
+#featurearea{
+    padding: 1% 5%;
+    max-height: 100%;
+    width: 100%;
+    margin: 1%;
+    
+   
+}
+#box{
+    display: flex;
+}
+#detailName{
+    font-size: 30px;
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Montserrat Subrayada';
+}
+#detailImage{
+    margin: 50px;
+    padding-left: 150px;
+
+}
+#features{
+    font-family: cursive;
+    letter-spacing: 1px;
+    line-height: 25px;
+    margin-left: 100px !important;
+    margin: 45px;
+    padding-top: 40px;
+}
+#image{
+    height: 120px;
+}
+.SlideWrapper{
+    height: 500px;
+    cursor: pointer;
+}
+#firstname,#email,#number,#textarea{
+    display: block;
+    margin-bottom: 40px !important;
+    border:none;
+    border-bottom: 1px solid dimgray;
+    transition: 1s;
+    width: 100%;
+    border-radius: 3px;
+}
+#submit{
+    width: 100%;
+    color: white;
+    background: skyblue;
+    border: none;
+    padding: 12px 0;
+    font-weight: bold;
+    border-radius: 3px;
+}
+#firstname:focus,#email:focus,#number:focus,#textarea:focus{
+    border: 3px solid dimgrey;
+}
+.contactwrapper{
+    position: absolute;
+    padding: 7%;
+    border-top: 5px solid skyblue;
+    left: 50%;
+    top: 40px;
+    height: 500px;
+    width: 80%;
+    box-shadow: 2px 5px 10px 5px #888888;
+    transform: translate(-50%);
+}
+.Contact{
+    position: relative;
+    height: 600px;
+}
+#phoneimages{
+    height: 210px;
+}
+h4{
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.footer{
+    background: black;
+    height: 160px;
+    color: white;
+}
+.icons{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.fab{
+    margin-left: 10px;
+}
+#footertext{
+    text-align: center;
+    padding-top: 20px;
+}
+#naveenimg{
+    height: 300px;
+}
+.about{
+   height: 500px;
+}
+#aboutarea{
+    text-align: center;
+    margin-top: 10%;
+}
+#html,#css,#js,#jquery,#photoshop,#react,#php{
+    height: 65px;
+    padding-left: 20px;
+}
+#desc{
+    padding: 20px;
+    font-weight: bold;
+}
+.phonecard{
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.phonecard:hover{
+    box-shadow: 2px 5px 10px 5px #888888;
+}
+.cartbutton{
+    background: #1a75ff;
+    border: none;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    z-index: 111;
+}
+#addedcart{
+    color: black;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.modalcard{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1050;
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: 0;
+    transition: 1s;
+}
+#modalcontent{
+    height: 430px;
+    width :300px ;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 1s;
+}
+#modalimage,#cartimage{
+    height: 200px;
+}
+#cartimage{
+    margin: 20px;
+
+}
+#carttotal{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.cartitem{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    padding: 30px;
+    margin-top: 30px;
+   
+}
+#cartcount{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+#cartprice{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+#empty,#emptycart{
+    text-align: center;
+}
+#emptycart{
+    padding: 100px;
+}
+#empty{
+    padding-top: 30px;
+}
+#emptyimg{
+    height: 300px;
+}
+.cartcol{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    font-weight: bold;
+}
+#cardproductcol{
+    position: absolute;
+    left: 60px;
+}
+#cartname{
+    padding-top: 20px;
+    padding-left:40px ;
+}
+#cartnamecol{
+    position: absolute;
+    left: 250px;
+}
+#cartpricecol{
+    position: absolute;
+    left: 480px;
+}
+#cartcountcol
+{
+    position: absolute;
+    left: 660px;
+
+}
+#carttotalcol{
+    position: absolute;
+    left: 800px;
+}
+.finalcart{
+    border: 1px solid dimgrey;
+    padding: 20px;
+    border-radius: 20px;
+    position: fixed;
+    left: 1000px;
+    top: 100px;
+}
+#delievry{
+    font-weight: bold;
+    color: green;
+    border: 1px solid darkgrey;
+    padding: 2px;
+    width: 120px;
+    border-radius: 10px;
+}
+#clearcart{
+    color: red;
+    background: white;
+    font-weight: bold;
+    border: 1px solid red;
+    margin-top: 10px;
+    padding: 0px 20px;
+    border-radius: 10px;
+    transition: 0.7s;
+}
+#clearcart:hover{
+    background: tomato;
+    color: white;
+    border: 1px solid white;
+
+}
+#removecart{
+    padding-top: 24px;
+    margin-left: 50px;
+    color: tomato;
+    cursor: pointer;
+}
+

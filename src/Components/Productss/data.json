@@ -1,0 +1,362 @@
+ [{
+	    "id":0,
+ 		"name": "Samsung",
+ 		"model": "S10",
+         "description": "Get ready to explore the next generation of powerful computing and mobile photography with the Samsung Galaxy S10. It comes with an Intelligent Camera that automatically optimizes its settings to give you picture-perfect photos. That's not all, the Samsung S10 has the Infinity-O Display and a seamless design that make this smartphone a true masterpiece.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/jsdj8nk0/mobile/m/h/a/samsung-galaxy-s10-sm-g973fzkdins-original-imafdys4755vhhfj.jpeg?q=70",
+		 "price":76000,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "8GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "128 GB"
+ 			},
+ 			{
+ 				"Display_Size": "15.49 cm (6.1 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "Android Pie 9.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.2 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "10MP"
+ 			},
+ 			{
+ 				"back_camera": "16MP + 12MP"
+ 			},
+ 			{
+ 				"Battery": "3400 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":1,
+ 		"name": "Apple",
+ 		"model": "iPhone 11 Pro",
+         "description": "Four new textured matt glass finishes and stainless-steel design.The iPhone 11 Pro features Triple 12 MP Ultra Wide (13mm), Wide (26mm) and Telephoto (52mm) cameras.The fastest chip in a smartphone - A13 Bionic chip with Neural Engine.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/z/a/f/iphone-11-pro-max-256-u-mwhm2hn-a-apple-0-original-imafkg2ftc5cze5n.jpeg?q=70",
+		 "price":120000,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "4GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "64 GB"
+ 			},
+ 			{
+ 				"Display_Size": "14.73 cm (5.8 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "iOS 13"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "A13 Bionic Chip"
+ 			},
+ 			{
+ 				"front_camera": "12MP"
+ 			},
+ 			{
+ 				"back_camera": "12MP + 12MP + 12MP"
+ 			},
+ 			{
+ 				"Battery": "3046 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":2,
+ 		"name": "Realme",
+ 		"model": "XT",
+         "description": "The Realme XT smartphone is here to make your life more fun. From capturing amazing pictures with this phone’s 64 MP AI Quad camera to flaunting its hyperbola curved glass design, you will fall in love with this smartphone instantly. That’s not all, this smartphone comes with the Qualcomm Snapdragon 712 processor for efficient performance.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/w/e/u/xt-64-b-rmx1921-realme-6-original-imafk8h2dnnubezk.jpeg?q=70",
+		 "price":15999,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "4GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "64 GB"
+ 			},
+ 			{
+ 				"Display_Size": "16.26 cm (6.4 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "Android Pie 9.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.3 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "16MP"
+ 			},
+ 			{
+ 				"back_camera": "64MP + 8MP + 2MP"
+ 			},
+ 			{
+ 				"Battery": "4000 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":3,
+ 		"name": "OPPO",
+ 		"model": "Find X",
+         "description": "The OPPO Find X is here to take your viewing experience up a notch with its 16.25 cm (19.5:9) Panoramic Arc Screen. Its Unified Design ensures a better grip and a seamless display. The body of the OPPO Find X features a sleek gradient effect, which has been achieved using an innovative multifaceted color process.Find X delivers a user-friendly interface.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/jjylw280/mobile/v/y/2/oppo-find-x-cph1871-original-imaf7fb93mkshx5g.jpeg?q=70",
+		 "price":58000,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "8GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "256 GB"
+ 			},
+ 			{
+ 				"Display_Size": "16.26 cm (6.4 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "Android Oreo 8.1.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.649 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "25MP"
+ 			},
+ 			{
+ 				"back_camera": "16MP + 20MP"
+ 			},
+ 			{
+ 				"Battery": "3730 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":4,
+ 		"name": "Asus",
+ 		"model": "ROG Phone II",
+         "description": "Get set for action-packed adventures with the ASUS ROG phone 2 which facilitates a blazing fast performance with great features for a seamless gaming experience. It comes with the robust ROG GameCool II cooling system to help you game for long hours, without worrying about the device being heated up.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/k0vbgy80/mobile/z/g/r/asus-rog-phone-ii-zs660kl-1a017in-original-imafkkbmyuv5vygg.jpeg?q=70",
+		 "price":37999,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "8GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "128 GB"
+ 			},
+ 			{
+ 				"Display_Size": "16.74 cm (6.59 inch) "
+ 			},
+ 			{
+ 				"Operating_System": "Android Pie 9.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.96 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "24MP"
+ 			},
+ 			{
+ 				"back_camera": "48MP + 13MP"
+ 			},
+ 			{
+ 				"Battery": "6000 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":5,
+ 		"name": "Honor",
+ 		"model": "20",
+ 		"description": "Capture stunning images, wherever you go, with the HONOR 20 smartphone. Its four rear cameras (16 MP + 48 MP + 2 MP + 2 MP Macro) let you capture beautiful landscape images, eye-catching close-up shots, and bright images even under low-light conditions.",
+        "image":"https://rukminim1.flixcart.com/image/416/416/jvtujrk0/mobile/7/r/h/honor-20-na-original-imafgh62mxw3ggvg.jpeg?q=70",
+		"price":22999,
+		"inCart":false,
+		"count":0,
+		"total":0,
+ 		"features": [{
+ 				"ram": "6GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "128 GB"
+ 			},
+ 			{
+ 				"Display_Size": "15.9 cm (6.26 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "Android Pie 9.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.6 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "32MP"
+ 			},
+ 			{
+ 				"back_camera": "48MP + 2MP + 16MP"
+ 			},
+ 			{
+ 				"Battery": "3750 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":6,
+ 		"name": "Samsung",
+ 		"model": "Galaxy M30s",
+         "description": "With the Samsung Galaxy M30s, Samsung introduces a 6000 mAh battery for the first time in this price segment- along with all round features comprising of a 48 MP rear camera in triple camera set up and an immersive SAmoled screen.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/2/j/h/galaxy-m30s-64-a-sm-m307fzbdins-samsung-4-original-imafkzxkjzpgwqzw.jpeg?q=70",
+		 "price":16999,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "6GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "128 GB"
+ 			},
+ 			{
+ 				"Display_Size": "16.26 cm (6.4 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "Android Pie 9.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.3 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "16MP"
+ 			},
+ 			{
+ 				"back_camera": "48MP + 8MP + 5MP"
+ 			},
+ 			{
+ 				"Battery": "6000 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":7,
+ 		"name": "Redmi",
+ 		"model": "K20 Pro",
+         "description": "The K20 Pro opens up new possibilities. The blazing-fast processor Qualcomm Snapdragon 855 gives you peak performance, while a 48 MP Triple camera setup lets you see things from a different perspective altogether. Be it gaming or everyday tasks this device handles it flawlessly. The beautiful 16.23-cm (6.39) Horizon AMOLED display is a delight when it comes to viewing content on the go. The Aura Prime design gives the device a unique look while the Corning Gorilla Glass 5 on the front and back enhances the overall user experience.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/jxz0brk0/mobile/w/s/r/redmi-k20-pro-na-original-imafgb4ye45dtzvf.jpeg?q=70",
+		 "price":24999,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "6GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "128 GB"
+ 			},
+ 			{
+ 				"Display_Size": "16.23 cm (6.39 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "Android Pie 9.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.84 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "20MP"
+ 			},
+ 			{
+ 				"back_camera": "48MP + 13MP + 8MP"
+ 			},
+ 			{
+ 				"Battery": "4000 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":8,
+ 		"name": "Apple",
+ 		"model": "iPhone XR",
+         "description": "The iPhone XR has arrived to stun our senses with a host of features such as the Liquid Retina Display, a faster Face ID, and the powerful A12 Bionic Chip. Whether it's that picture-perfect portrait shot or a jaw-dropping HDR picture, the cameras of this iPhone too will continue to stun you with their brilliance. Thus, when you have the iPhone XR in your hands, you can only see beauty, in every way.",
+         "image":"https://rukminim1.flixcart.com/image/416/416/jnj7iq80/mobile/u/b/g/apple-iphone-xr-mryj2hn-a-original-imafa6zkm7qhv2zd.jpeg?q=70",
+		 "price":54900,
+		 "inCart":false,
+		 "count":0,
+		 "total":0,
+ 		"features": [{
+ 				"ram": "4GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "128 GB"
+ 			},
+ 			{
+ 				"Display_Size": "15.49 cm (6.1 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "iOS 13"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "A12 Bionic Chip"
+ 			},
+ 			{
+ 				"front_camera": "7MP"
+ 			},
+ 			{
+ 				"back_camera": "12MP"
+ 			},
+ 			{
+ 				"Battery": "3400 mAh"
+ 			}
+ 		]
+ 	},
+ 	{
+		"id":9,
+ 		"name": "OPPO",
+ 		"model": "Reno2 Z",
+ 		"description": "With the OPPO Reno 2Z, you can capture moments, beauties, wonders, and miracles of life, post them on your social media, and respond to appreciations of your friends and followers in no time. This high-end smartphone features a 48 MP Quadcam to click images from every angle, a 16.51-cm (6.5) AMOLED display for clear visuals, and 8 GB of RAM for fast and seamless performance.",
+        "image":"https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/e/p/h/reno2-z-128-u-cph1945-oppo-8-original-imafjv59gb4s9vxg.jpeg?q=70", 
+		"price":25990,
+		"inCart":false,
+		"count":0,
+		"total":0,
+         "features": [{
+ 				"ram": "8GB"
+ 			},
+ 			{
+ 				"Internal_Storage": "256 GB"
+ 			},
+ 			{
+ 				"Display_Size": "16.51 cm (6.5 inch)"
+ 			},
+ 			{
+ 				"Operating_System": "Android Pie 9.0"
+ 			},
+ 			{
+ 				"Primary_Clock_Speed": "2.2 GHz Octa Core"
+ 			},
+ 			{
+ 				"front_camera": "16MP"
+ 			},
+ 			{
+ 				"back_camera": "48MP + 8MP + 2MP + 2MP"
+ 			},
+ 			{
+ 				"Battery": "4000 mAh"
+ 			}
+ 		]
+ 	}
+
+ ]
